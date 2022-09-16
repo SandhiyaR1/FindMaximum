@@ -59,7 +59,7 @@ def max_marks(list1):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-Program to mark the maximum of marks using the list method sort
+Program to mark the maximum of marks using the list method sort.
 ![output](/max1.png)
 Program to find the maximum marks using the list method max().
 ![output](/max2.png)
