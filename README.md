@@ -53,8 +53,15 @@ def max_marks(list1):
             max=i
     return max
 
-
 ```
+
+
+
+
+
+
+
+
 ## Output:
 Program to mark the maximum of marks using the list method sort.
 ![output](/max1.png)
